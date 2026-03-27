@@ -1,4 +1,4 @@
-#Swiggy Sales Dashboard
+# Swiggy Sales Dashboard
  Overview
 
 This project presents an interactive sales dashboard built using Google Sheets to analyze food delivery data. It highlights key performance metrics, trends, and business insights.
